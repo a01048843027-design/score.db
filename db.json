@@ -1,8 +1,8 @@
 {
   "score": [
-    { "hakbun": 20250001, "irum":"홍길동", "kor":20, "eng":80, "mat":70 },
-    { "hakbun": 20250002, "irum":"김길동", "kor":30, "eng":90, "mat":60 },
-    { "hakbun": 20250003, "irum":"박길동", "kor":50, "eng":30, "mat":50 },
+    { "hakbun": 20250001, "irum":"홍길동", "kor":40, "eng":80, "mat":70 },
+    { "hakbun": 20250002, "irum":"김길동", "kor":10, "eng":90, "mat":60 },
+    { "hakbun": 20250003, "irum":"박길동", "kor":30, "eng":30, "mat":50 },
     { "hakbun": 20250004, "irum":"최길동", "kor":60, "eng":10, "mat":40 },
     { "hakbun": 20250005, "irum":"이길동", "kor":100, "eng":90, "mat":80 }    
   ]

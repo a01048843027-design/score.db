@@ -4,7 +4,7 @@
     { "hakbun": 20250002, "irum":"김길동", "kor":30, "eng":70, "mat":60 },
     { "hakbun": 20250003, "irum":"박길동", "kor":40, "eng":0, "mat":10 },
     { "hakbun": 20250004, "irum":"최길동", "kor":60, "eng":50, "mat":20 },
-    { "hakbun": 20250005, "irum":"이길동", "kor":100, "eng":90, "mat":9 },
+    { "hakbun": 20250005, "irum":"이길동", "kor":100, "eng":40, "mat":15 },
     { "hakbun": 20250006, "irum":"홍길동", "kor":14, "eng":47, "mat":37 },
     { "hakbun": 20250007, "irum":"고길동", "kor":30, "eng":10, "mat":60 }
   ]
